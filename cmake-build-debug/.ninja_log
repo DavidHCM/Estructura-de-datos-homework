@@ -1,9 +1,13 @@
 # ninja log v5
 9	84	7033772454888447	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/stack.c.obj	8cbe504126fec436
-0	86	7033772454888447	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/datatypes.c.obj	673a75577bfecf9b
-4	91	7033772454958510	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/test.c.obj	ce1926cdf5368bc9
-91	205	7033772456079521	Estructura_de_datos_homework.exe	1bf5048c13b30404
-2	68	7033772867989765	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/test.c.obj	ce1926cdf5368bc9
-69	145	7033772868730439	Estructura_de_datos_homework.exe	1bf5048c13b30404
 2	73	7033773827817703	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/test.c.obj	ce1926cdf5368bc9
+0	86	7033772454888447	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/datatypes.c.obj	673a75577bfecf9b
 74	158	7033773828628439	Estructura_de_datos_homework.exe	1bf5048c13b30404
+2	66	7033775430854422	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/ejer1.c.obj	b6be487e7b0815c0
+67	151	7033775431665159	Estructura_de_datos_homework.exe	4668a16e41fb804
+2	69	7033775547799332	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/ejer1.c.obj	b6be487e7b0815c0
+70	150	7033775548580044	Estructura_de_datos_homework.exe	4668a16e41fb804
+2	70	7033775807900741	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/ejer1.c.obj	b6be487e7b0815c0
+71	156	7033775808731488	Estructura_de_datos_homework.exe	4668a16e41fb804
+2	67	7033776005250132	CMakeFiles/Estructura_de_datos_homework.dir/Home-act-repo_21/Act-1/ejer1.c.obj	b6be487e7b0815c0
+68	148	7033776006030836	Estructura_de_datos_homework.exe	4668a16e41fb804

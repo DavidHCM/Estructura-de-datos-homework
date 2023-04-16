@@ -17,5 +17,6 @@ add_executable(Estructura_de_datos_homework
         "Home-act-repo 21/Act-1/datatypes.h"
         "Home-act-repo 21/Act-1/stack.c"
         "Home-act-repo 21/Act-1/stack.h"
-        "Home-act-repo 21/Act-1/test.c"
+        "Home-act-repo 21/Act-1/ejer1.c"
+        "Home-act-repo 21/Act-1/fuente.txt"
         )
