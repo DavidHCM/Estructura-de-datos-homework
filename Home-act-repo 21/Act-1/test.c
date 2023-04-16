@@ -26,7 +26,7 @@ int main()
             c1 = stack_pop(STR);
             if(*c1 != '(')
             {
-                fprintf(stderr,"\nSalio mal este pedo 1");
+                fprintf(stderr,"\nSalio algo mal, flag: 1");
                 exit(1);
             }
         }
@@ -36,7 +36,7 @@ int main()
             c1 = stack_pop(STR);
             if(*c1 != '{')
             {
-                fprintf(stderr,"\nSalio mal este pedo 2");
+                fprintf(stderr,"\nSalio algo mal, flag: 2");
                 exit(2);
             }
         }
@@ -46,7 +46,7 @@ int main()
             c1 = stack_pop(STR);
             if(*c1 != '[')
             {
-                fprintf(stderr,"\nSalio mal este pedo 3");
+                fprintf(stderr,"\nSalio algo mal, flag: 3");
                 exit(3);
             }
         }
