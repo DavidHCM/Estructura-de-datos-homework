@@ -6,7 +6,7 @@
 int main()
 {
     FILE *fp;
-    fp = fopen("C:\\Users\\david\\Documents\\GitHub\\Estructura-de-datos-class\\Act-repo 20\\Act-1\\prueba.txt", "r");
+    fp = fopen("C:\\Users\\David\\Documents\\GitHub\\Estructura-de-datos-homework\\Home-act-repo 21\\Act-1\\prueba.txt", "r");
     char c,*c1;
     STACK STR = stack_create();
 
