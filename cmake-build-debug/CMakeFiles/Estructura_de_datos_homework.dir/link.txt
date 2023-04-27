@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Estructura_de_datos_homework.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\Estructura_de_datos_homework.dir/objects.a @CMakeFiles\Estructura_de_datos_homework.dir\objects1
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Estructura_de_datos_homework.dir/objects.a -Wl,--no-whole-archive -o Estructura_de_datos_homework.exe -Wl,--out-implib,libEstructura_de_datos_homework.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Estructura_de_datos_homework.dir\linkLibs.rsp
