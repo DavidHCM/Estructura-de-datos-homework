@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/David/Documents/GitHub/Estructura-de-datos-homework
+# Install script for directory: C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 26 Ultimo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Estructura_de_datos_homework")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Home_act_repo_26_Ultimo")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 26 Ultimo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

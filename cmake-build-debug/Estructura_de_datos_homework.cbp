@@ -8,30 +8,30 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
+				<Option working_dir="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Estructura_de_datos_homework">
-				<Option output="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Estructura_de_datos_homework.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
+				<Option output="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Estructura_de_datos_homework.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 10/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 10/Act-2"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 16/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 17/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 18/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 19/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 20/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 10/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 10/Act-2"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 16/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 17/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 18/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 19/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 20/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1"/>
 					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
 					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
 					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
@@ -39,27 +39,27 @@
 					<Add directory="/mingw/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 Estructura_de_datos_homework"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 Estructura_de_datos_homework"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Estructura_de_datos_homework/fast">
-				<Option output="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Estructura_de_datos_homework.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
+				<Option output="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Estructura_de_datos_homework.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 10/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 10/Act-2"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 16/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 17/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 18/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 19/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 20/Act-1"/>
-					<Add directory="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 10/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 10/Act-2"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 16/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 17/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 18/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 19/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 20/Act-1"/>
+					<Add directory="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1"/>
 					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
 					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
 					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
@@ -67,52 +67,52 @@
 					<Add directory="/mingw/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 Estructura_de_datos_homework/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 Estructura_de_datos_homework/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
+				<Option working_dir="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
+				<Option working_dir="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/datatypes.c">
+		<Unit filename="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/datatypes.c">
 			<Option target="Estructura_de_datos_homework"/>
 		</Unit>
-		<Unit filename="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/datatypes.h">
+		<Unit filename="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/datatypes.h">
 			<Option target="Estructura_de_datos_homework"/>
 		</Unit>
-		<Unit filename="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/ejer1.c">
+		<Unit filename="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/ejer1.c">
 			<Option target="Estructura_de_datos_homework"/>
 		</Unit>
-		<Unit filename="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/fuente.txt">
+		<Unit filename="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/fuente.txt">
 			<Option target="Estructura_de_datos_homework"/>
 		</Unit>
-		<Unit filename="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/stack.c">
+		<Unit filename="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/stack.c">
 			<Option target="Estructura_de_datos_homework"/>
 		</Unit>
-		<Unit filename="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/stack.h">
+		<Unit filename="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 21/Act-1/stack.h">
 			<Option target="Estructura_de_datos_homework"/>
 		</Unit>
-		<Unit filename="C:/Users/david/Documents/GitHub/Estructura-de-datos-homework/CMakeLists.txt">
+		<Unit filename="C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -1,0 +1,3 @@
+C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 26 Ultimo/cmake-build-debug/CMakeFiles/Home_act_repo_26_Ultimo.dir
+C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 26 Ultimo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo 26 Ultimo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
