@@ -16,7 +16,7 @@ struct STR_LIST_NODE {
 
 
 struct STR_LIST {
-	struct STR_LIST_NODE *first,*last;
+	struct STRMLNODE *first,*last;
 	int size;
 };
 
