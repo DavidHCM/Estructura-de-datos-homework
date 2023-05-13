@@ -61,6 +61,12 @@ build CMakeFiles/Home_act_repo_26_Ultimo.dir/map.c.obj: C_COMPILER__Home_act_rep
   OBJECT_DIR = CMakeFiles\Home_act_repo_26_Ultimo.dir
   OBJECT_FILE_DIR = CMakeFiles\Home_act_repo_26_Ultimo.dir
 
+build CMakeFiles/Home_act_repo_26_Ultimo.dir/programa.c.obj: C_COMPILER__Home_act_repo_26_Ultimo_Debug C$:/Users/David/Documents/GitHub/Estructura-de-datos-homework/Home-act-repo$ 26$ Ultimo/programa.c || cmake_object_order_depends_target_Home_act_repo_26_Ultimo
+  DEP_FILE = CMakeFiles\Home_act_repo_26_Ultimo.dir\programa.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\Home_act_repo_26_Ultimo.dir
+  OBJECT_FILE_DIR = CMakeFiles\Home_act_repo_26_Ultimo.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Home_act_repo_26_Ultimo
@@ -69,7 +75,7 @@ build CMakeFiles/Home_act_repo_26_Ultimo.dir/map.c.obj: C_COMPILER__Home_act_rep
 #############################################
 # Link the executable Home_act_repo_26_Ultimo.exe
 
-build Home_act_repo_26_Ultimo.exe: C_EXECUTABLE_LINKER__Home_act_repo_26_Ultimo_Debug CMakeFiles/Home_act_repo_26_Ultimo.dir/list.c.obj CMakeFiles/Home_act_repo_26_Ultimo.dir/map.c.obj
+build Home_act_repo_26_Ultimo.exe: C_EXECUTABLE_LINKER__Home_act_repo_26_Ultimo_Debug CMakeFiles/Home_act_repo_26_Ultimo.dir/list.c.obj CMakeFiles/Home_act_repo_26_Ultimo.dir/map.c.obj CMakeFiles/Home_act_repo_26_Ultimo.dir/programa.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Home_act_repo_26_Ultimo.dir
