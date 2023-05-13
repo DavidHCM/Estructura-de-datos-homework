@@ -6,7 +6,7 @@
 #define M 6
 
 struct STRMLNODE {
-    char key[13];
+    char key[60];
     char data[100];
     struct STRMLNODE *next;
 };
